@@ -51,7 +51,7 @@ public class Test {
 		// Facade
 		
 		Facade facade = new Facade();
-		facade.migrarCliente("Tatiane", "54730199");
+		facade.migrarCliente("Tatiane", "Messias", "54730199", "91022233400", "30");
 	}
 
 }
